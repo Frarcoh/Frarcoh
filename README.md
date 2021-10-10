@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on **Geotasks**
 
 <h3 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
+<br>
 <p align="left">
 <a href="https://codepen.io/frarcoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="frarcoh" height="30" width="40" /></a>
 <a href="https://dev.to/frarcoh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="frarcoh" height="30" width="40" /></a>
